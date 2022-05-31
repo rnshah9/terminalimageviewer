@@ -1,0 +1,6 @@
+project: rnshah9/terminalimageviewer
+target: terminalimageviewer
+
+cmds:
+  - cmd: /repo/src/main/cpp/tiv /test.png
+    filepath: /test.png
