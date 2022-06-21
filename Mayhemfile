@@ -1,5 +1,5 @@
-project: rnshah9/terminalimageviewer
-target: terminalimageviewer
+project: terminalimageviewer
+target: tiv
 
 cmds:
   - cmd: /repo/src/main/cpp/tiv /test.png
