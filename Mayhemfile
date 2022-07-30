@@ -2,5 +2,4 @@ project: terminalimageviewer
 target: tiv
 
 cmds:
-  - cmd: /repo/src/main/cpp/tiv /test.png
-    filepath: /test.png
+  - cmd: /install/usr/local/bin/tiv @@
